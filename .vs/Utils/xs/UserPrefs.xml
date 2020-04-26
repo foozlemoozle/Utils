@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{2E6FF766-9FA3-47D1-9E54-C9F3B0476300}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/package.json">
+    <Files>
+      <File FileName="Assets/package.json" Line="6" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Utils" expanded="True">
+            <Node name="Assets" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ca8a3b69-ab09-41af-91a9-58690f0d0c86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
