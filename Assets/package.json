@@ -1,6 +1,6 @@
 {
 	"name" : "com.keg.utils",
-	"version" : "0.1.0",
+	"version" : "0.1.3",
 	"displayName" : "Utils",
 	"description" : "Variety of useful util classes and functions.",
 	"unity" : "2019.2"
