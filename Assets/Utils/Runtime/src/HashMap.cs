@@ -1,4 +1,8 @@
-﻿
+﻿/// Created by: Kirk George
+/// Copyright: Kirk George
+/// Website: https://github.com/foozlemoozle?tab=repositories
+/// See upload date for date created.
+
 using Stack = System.Collections.Generic.Stack<int>;
 using System.Collections.Generic;
 
